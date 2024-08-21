@@ -4,6 +4,12 @@
 
 En este Repositorio se almacenan los archivos de diseño de la ESP-EDU, una placa de desarrollo diseñada por la cátedra de Electrónica Programable de la FIUNER, basada en el módulo [ESP32-C6-DevKitC-1](https://docs.espressif.com/projects/espressif-esp-dev-kits/en/latest/esp32c6/esp32-c6-devkitc-1/index.html), para ser usada durante el cursado de la asignatura.
 
+![esp-edu](./hardware/images/esp-edu-pic.png)
+
+## Pinout
+
+![pinout](./hardware/images/esp-edu_pinout.png)
+
 ## Características
 
 * Procesador: 1 núcleo RISC-V 32-bit (hasta 160MHz)
