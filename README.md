@@ -33,6 +33,7 @@ En este Repositorio se almacenan los archivos de diseño de la ESP-EDU, una plac
 ## Enlaces de Interés
 
 * [Campus Virtual de la Cátedra](http://campus.ingenieria.uner.edu.ar/course/view.php?id=455)
+* [Repositorio de Firmware](https://github.com/prototipado/EProgramable_FIUNER)
 * [Manual de Usuario ESP32-C6](https://www.espressif.com/sites/default/files/documentation/esp32-c6_technical_reference_manual_en.pdf)
 * [Hoja de Datos de ESP32-C6](https://www.espressif.com/sites/default/files/documentation/esp32-c6_datasheet_en.pdf)
 * [Guía de Usuario de ESP32-C6-DevKitC-1](https://docs.espressif.com/projects/espressif-esp-dev-kits/en/latest/esp32c6/esp32-c6-devkitc-1/user_guide.html)
